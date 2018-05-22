@@ -1,0 +1,5 @@
+4
+{"step": 1, "text" : "1. This is the first step", "image" : "step1.png", "warning" : ""}
+{"step": 2, "text" : "2. This is the second step", "image" : "step2.png", "warning" : ""}
+{"step": 3, "text" : "3. This is the third step", "image" : "step3.png", "warning" : ""}
+{"step": 4, "text" : "4. This is the fourth step", "image" : "step4.png", "warning" : ""}
